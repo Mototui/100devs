@@ -1,0 +1,50 @@
+
+body{
+    background-color: rgb(94, 216, 247);
+    text-align: center;
+    margin: 30px;
+    border: 7px solid green;
+    padding: 20px;
+}  
+
+h1{
+    font-style: italic;
+}
+
+h2{
+    text-align: left;
+}
+
+li{
+    list-style-type: none;
+    display: inline;
+}
+
+.text-white{
+    color: white;
+    text-decoration: none;
+}
+
+.text-green{
+    color: green;
+}
+
+div{
+    width: 100%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+div p{
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 20px;
+    color: white;
+}
+
+img{
+    margin: 15px;
+    width: 400px;
+    height: 400px;
+    float: right;
+}
