@@ -8,6 +8,10 @@ header{
     height: 100px;
 }
 
+.more-heigh{
+    height: 300px;
+}
+
 div{
     display: flex;
 }
